@@ -1,5 +1,5 @@
 # Autor: Francisco Rodrigues
-# Data: 28/10/2026
+# Data: 03/11/2026
 # Objetivo: Consolidação do estudo de estrutura de repetição com contador e acumulador
 
 Enunciado = """Escreva um programa que funcione como o caixa de um supermercado.
@@ -71,7 +71,7 @@ linha()
 print('\t📊  RELATÓRIO DA COMPRA - VALÉRIOS TECHLABS')
 linha()
 print(f'🛒  Total de itens comprados : {quantidade}')
-print(f'💵  Valor total da compra     : R$ {total:.2f}')
+print(f'💵  Valor total da compra    : R$ {total:.2f}')
 print(f'📈  Média de preço dos itens : R$ {media:.2f}')
 print(f'💎  Produto mais caro        : R$ {maior_preco:.2f}')
 linha()
